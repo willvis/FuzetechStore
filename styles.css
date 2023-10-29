@@ -1,0 +1,60 @@
+* {
+    border: 0;
+    padding: 0;
+  }
+  .penguin-logo {
+    width: 50%;
+  }
+  .head-section {
+    background-color: rgba(61, 49, 17, 0.852);
+  }
+  .penguin-navbar {
+    background-color: navy;
+  }
+  h1 {
+    font-family: "Bebas Neue", cursive;
+  }
+  #text-style {
+    color: rgba(250, 190, 76, 1);
+    font-size: 80px;
+  }
+  .text-style2 {
+    font-size: 80px;
+  }
+  .penguin-catagory,
+  .text-style2 {
+    color: rgba(54, 57, 88, 1);
+  }
+  .penguin-card-img {
+    padding: 5%;
+    background-color: rgba(27, 54, 64, 0.747);
+    margin: 4% auto;
+  }
+  .penguin-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+  }
+  .penguin-card-border,
+  .penguin-card-img {
+    border-radius: 1em;
+  }
+  .price-text-style {
+    color: rgba(250, 190, 76, 1);
+    font-weight: bold;
+  }
+  .penguin-card-footer,
+  .penguin-card-border {
+    background-color: rgb(69, 9, 9);
+    border: 0;
+  }
+  .penguin-btn {
+    background-color: rgba(164, 188, 70, 1);
+    color: rgb(130, 6, 6);
+  }
+  .footer-section {
+    background-color: hsla(72, 47%, 51%, 0.486);
+    padding: 3% 1% 1% 1%;
+  }
+  
